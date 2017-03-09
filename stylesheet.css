@@ -3,7 +3,7 @@
   width:auto;
   height:50px;
   margin:auto;
-  border:100%;
+  border-radius: 5px;
   border-color:black;
 }
 
