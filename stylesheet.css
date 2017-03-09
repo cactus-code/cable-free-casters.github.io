@@ -6,6 +6,8 @@
 }
 
 #banner_text {
+  margin-left: 2px
+  margin-right: 2px
   font-family:Arial,sans-serif;
   color:blue;
 }
