@@ -4,7 +4,7 @@
   height:50px;
   margin:auto;
   border-radius: 5px;
-  border-color:black;
+  border 2px solid black;
 }
 
 #banner_text {
