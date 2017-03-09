@@ -6,8 +6,7 @@
 }
 
 #banner_text {
-  margin-left: 20px
-  margin-right: 2px
+  text-align:center;
   font-family:Arial,sans-serif;
   color:blue;
 }
