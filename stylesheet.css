@@ -1,11 +1,12 @@
 .banner {
   background-color:red;
   width:auto;
-  width: 100%; 
-  width: 100vw;
   height:50px;
+  margin:auto;
+  border:100%;
 }
 
 #banner_text {
+  font-family:Arial,sans-serif;
   color:black;
 }
