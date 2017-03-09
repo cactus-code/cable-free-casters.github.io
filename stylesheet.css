@@ -1,6 +1,9 @@
-div {
+.banner {
   background-color:red;
-  color:black;
   width:auto;
   height:50px;
+}
+
+#banner_text {
+  color:black;
 }
