@@ -2,11 +2,11 @@
   background-color:red;
   width:auto;
   height:50px;
-  margin-left:2px;
   border: 4px solid #000000;
 }
 
 #banner_text {
+  margin-left:2px;
   font-family:Arial,sans-serif;
   color:blue;
 }
