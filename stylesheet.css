@@ -1,5 +1,5 @@
 .banner {
-  background-color:red;
+  background-color:blue;
   width:auto;
   height:200px;
   border: 2px solid #000000;
@@ -9,7 +9,7 @@
   text-align:right;
   font-family:Arial,sans-serif;
   font-size:10px;
-  color:blue;
+  color:white;
 }
 
 #banner_image {
