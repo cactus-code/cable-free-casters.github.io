@@ -6,11 +6,11 @@
 }
 
 #banner_text {
-  text-align:left;
+  text-align:right;
   font-family:Arial,sans-serif;
   color:blue;
 }
 
 #banner_image {
-  text-align:right;
+  text-align:left;
 }
