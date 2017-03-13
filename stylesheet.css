@@ -17,6 +17,13 @@
   text-align:left;
 }
 
+/* Styles for below banner gap */
+.below_banner {
+  background-color:#ffffff;
+  width:auto;
+  height:10px;
+}
+
 /* Styles for left sidebar */
 .sidebar {
   background-color:#8ab4f7;
