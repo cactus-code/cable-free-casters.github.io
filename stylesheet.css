@@ -1,3 +1,4 @@
+/* Styles for upper banner */
 .banner {
   background-color:#8ab4f7;
   width:auto;
@@ -14,4 +15,12 @@
 
 #banner_image {
   text-align:left;
+}
+
+/* Styles for left sidebar */
+.sidebar {
+  background-color:#8ab4f7;
+  height:auto;
+  width:100px;
+  border: 2px solid #000000;
 }
