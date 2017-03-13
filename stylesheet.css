@@ -20,7 +20,7 @@
 /* Styles for left sidebar */
 .sidebar {
   background-color:#8ab4f7;
-  height:auto;
-  width:100px;
+  height:100vh;
+  width:200px;
   border: 2px solid #000000;
 }
