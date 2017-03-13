@@ -29,7 +29,5 @@
   background-color:#8ab4f7;
   height:200px;
   width:300px;
-  border-left: 2px solid #000000;
-  border-right: 2px solid #000000;
-  border-bottom: 2px solid #000000;
+  border: 2px solid #000000;
 }
