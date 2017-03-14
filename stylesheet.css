@@ -17,11 +17,18 @@
   text-align:left;
 }
 
-/* Styles for below banner gap */
+/* Styles for gaps */
 .below_banner {
   background-color:#ffffff;
   width:auto;
   height:5px;
+}
+
+.beside_sidebar {
+  background-color:#00ffff;
+  height:500px;
+  width:5px;
+  float:left;
 }
 
 /* Styles for left sidebar */
@@ -37,6 +44,7 @@ div h3 {
   text-align:center;
 }
 
+/* Styles for pages content */
 .index_content {
   float: left;
   border: 2px solid #000000
