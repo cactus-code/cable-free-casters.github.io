@@ -39,5 +39,5 @@ div h3 {
 
 .index_content {
   float: left;
-  margin: 2px;
+  border: 2px solid #000000
 }
