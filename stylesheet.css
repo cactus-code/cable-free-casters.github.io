@@ -32,8 +32,7 @@
   background-color:#ffffff;
   height:500px;
   width:5px;
-  /*float:left;*/
-  position:fixed;
+  float:left;
 }
 
 /* Styles for left sidebar */
@@ -42,13 +41,11 @@
   height:500px;
   width:300px;
   border: 2px solid #000000;
-  /*float: left;*/
-  position:fixed;
+  float: left;
 }
 
 .sidebar_title {
   text-align:center;
-  position:fixed;
 }
 
 /* Styles for pages content */
