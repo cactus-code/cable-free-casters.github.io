@@ -1,6 +1,9 @@
+*:not(.banner) {
+  margin-top:204px;
+}
+
 /* Styles for upper banner */
 .banner {
-  margin-top:204px;
   background-color:#8ab4f7;
   width:auto;
   height:200px;
