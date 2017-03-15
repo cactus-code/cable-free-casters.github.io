@@ -24,12 +24,12 @@
   height:5px;
 }
 
-.beside_sidebar {
+/*.beside_sidebar {
   background-color:#ffffff;
   height:500px;
   width:5px;
-  float:right;
-}
+  float:left;
+}*/
 
 /* Styles for left sidebar */
 .sidebar {
