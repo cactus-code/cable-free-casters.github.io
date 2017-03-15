@@ -28,6 +28,7 @@
   background-color:#ffffff;
   height:500px;
   width:5px;
+  float:left;
 }
 
 /* Styles for left sidebar */
