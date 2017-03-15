@@ -4,6 +4,7 @@
   width:auto;
   height:200px;
   border: 2px solid #000000;
+  position:fixed;
 }
 
 #banner_text {
@@ -11,10 +12,12 @@
   font-family:Arial,sans-serif;
   font-size:30px;
   color:white;
+  position:fixed;
 }
 
 #banner_image {
   text-align:left;
+  position:fixed;
 }
 
 /* Styles for gaps */
@@ -22,6 +25,7 @@
   background-color:#ffffff;
   width:auto;
   height:5px;
+  position:fixed;
 }
 
 .beside_sidebar {
@@ -29,6 +33,7 @@
   height:500px;
   width:5px;
   float:left;
+  position:fixed;
 }
 
 /* Styles for left sidebar */
@@ -38,10 +43,12 @@
   width:300px;
   border: 2px solid #000000;
   float: left;
+  position:fixed;
 }
 
 .sidebar_title {
   text-align:center;
+  position:fixed;
 }
 
 /* Styles for pages content */
