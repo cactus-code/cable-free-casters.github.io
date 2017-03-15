@@ -1,15 +1,9 @@
-*:not(.banner) {
-  margin-top:204px;
-}
-
 /* Styles for upper banner */
 .banner {
   background-color:#8ab4f7;
   width:auto;
   height:200px;
   border: 2px solid #000000;
-  position:fixed;
-  z-index:1;
 }
 
 #banner_text {
