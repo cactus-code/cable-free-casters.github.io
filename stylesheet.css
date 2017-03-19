@@ -45,6 +45,10 @@
   height:700px;
 }
 
+.design_image {
+  clip: rect(100px,100px,100px,100px)
+}
+
 .design_content {
   padding-left:305px;
   border: 2px solid #000000;
