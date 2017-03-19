@@ -34,7 +34,7 @@
 /* Styles for left sidebar */
 .sidebar {
   background-color:#8ab4f7;
-  height:600px;
+  height:700px;
   width:300px;
   border: 2px solid #000000;
   float: left;
@@ -48,11 +48,11 @@
 .index_content {
   margin-left:305px;
   border: 2px solid #000000;
-  height:600px;
+  height:700px;
 }
 
 .design_content {
   margin-left:305px;
   border: 2px solid #000000;
-  height:600px;
+  height:700px;
 }
