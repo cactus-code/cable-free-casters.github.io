@@ -1,3 +1,7 @@
+a {
+  text-decoration:none;
+}
+
 /* Styles for upper banner */
 .banner {
   background-color:#8ab4f7;
@@ -35,6 +39,21 @@
 
 .sidebar_title {
   text-align:center;
+  background-color:#ffffff;
+  height:auto;
+  width:auto;
+}
+
+.sidebar1 {
+  background-color:#ffffff;
+  height:auto;
+  width:auto;
+}
+
+.sidebar2 {
+  background-color:#ffffff;
+  height:auto;
+  width:auto;
 }
 
 /* Styles for pages content */
