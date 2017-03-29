@@ -45,7 +45,15 @@ a {
   border-radius: 5px;
 }
 
-.sidebar_button {
+.sidebar_button1 {
+  padding-left:5px;
+  background-color:#ffffff;
+  height:auto;
+  width:auto;
+  border-radius: 5px;
+}
+
+.sidebar_button2 {
   padding-left:5px;
   background-color:#ffffff;
   height:auto;
