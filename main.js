@@ -1,4 +1,4 @@
-$(document).ready(function() {
+/*$(document).ready(function() {
     $('.sidebar_button1').mouseenter(function() {
         $('.sidebar_button1').fadeTo('fast' , 0.5)
     });
@@ -15,3 +15,4 @@ $(document).ready(function() {
         $('.sidebar_button2').fadeTo('fast' , 1)
     });
 });
+*/
