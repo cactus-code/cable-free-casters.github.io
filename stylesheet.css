@@ -56,6 +56,9 @@ a {
   height:auto;
   width:auto;
 }
+.sidebar_button1:hover{
+  background-color:#d7f8ff;  
+}
 
 /* Styles for pages content */
 .index_content {
