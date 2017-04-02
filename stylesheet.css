@@ -9,7 +9,9 @@ a {
   height:200px;
   border: 2px solid #000000;
 }
-
+#banner_image:hover {
+  background-color: #d7f8ff
+}
 #banner_text {
   text-align:right;
   font-family:Arial,sans-serif;
@@ -56,9 +58,7 @@ a {
   height:auto;
   width:auto;
 }
-.sidebar_button1:hover{
-  background-color:#d7f8ff;  
-}
+
 
 /* Styles for pages content */
 .index_content {
